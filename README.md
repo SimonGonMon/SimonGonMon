@@ -1,7 +1,7 @@
 # I'm Simon! 👋
 
 - 🌍 Colombia 🇨🇴.
-- 🎓 Computer and Systems Engineering student.
+- 🎓 Systems Engineering student.
 
 ### Featured Projects
 
