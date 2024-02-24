@@ -5,9 +5,8 @@
 
 ### Featured Projects
 
-- 🚀 [`FinanZee`] - Financial management desktop application for Windows powered by .NET and C++.
+- 🚀 [`Superschedule`] - Web application to calculate university schedules build on Next.js.
 - 🚀 [`QParking`] - Public parking automation web application built on Laravel.
-- 🚀 [`Superschedule`] - Web application to calculate university schedules.
 
 ### Skills
 
