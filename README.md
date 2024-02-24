@@ -31,7 +31,7 @@
 ### Contact
 
 - ![Email](https://img.shields.io/badge/Email-simon.gon.mon%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Simón%20González%20Montero-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-gon-mon/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Simón%20González%20Montoya-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-gon-mon/)
 
 
 ###### "Simplicity is the ultimate sophistication" - Leonardo da Vinci
