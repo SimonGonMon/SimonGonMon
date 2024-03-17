@@ -6,6 +6,7 @@
 ### Featured Projects
 
 - 🚀 [`Superschedule`] - Web application to calculate university schedules build on Next.js.
+- 🚀 [`The Music Lounge`] - Web application to consume the Spotify API to check on songs, artists and albums; built on Svelte.
 - 🚀 [`QParking`] - Public parking automation web application built on Laravel.
 
 ### Skills
