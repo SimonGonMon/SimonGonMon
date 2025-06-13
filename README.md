@@ -10,6 +10,9 @@
   <a href="https://www.linkedin.com/in/simon-gon-mon/">
     <img src="https://img.shields.io/badge/LinkedIn-Simón%20González%20Montoya-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://simongonmon.dev/">
+    <img src="https://img.shields.io/badge/Website-simongonmon.dev-2E8BC0?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Website" />
+  </a>
   <a href="mailto:simon.gon.mon@gmail.com">
     <img src="https://img.shields.io/badge/Email-simon.gon.mon%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
