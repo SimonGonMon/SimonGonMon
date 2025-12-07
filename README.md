@@ -2,7 +2,7 @@
 I build AI-backed products (true AI, not just LLMs)
 
 ## What I do
-- I’m titled a Data Scientist, but day to day I work like an AI engineer with a backend focus so... yeah
+I’m titled a Data Scientist, but day to day I work like an AI engineer with a backend focus or backend software engineer with an AI focus so... yeah
 
 ## Tech stack I reach for
 <div align="left">
